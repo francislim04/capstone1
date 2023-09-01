@@ -1,0 +1,72 @@
+/*CSS Reset*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+  font-family: Merriweather, serif;
+  color: #d6d3d1;
+  font-weight: 200;
+}
+
+/*Nav*/
+.fcl-logo {
+	border-radius: 50%;
+	width: 50px;
+	height: 50px;
+  margin-right: 10px;
+}
+
+.fcl-nav {
+	background-color: #57534e;
+}
+
+/*Landing*/
+.fcl-landing {
+  background-color: #737373;
+}
+
+.fcl-profile {
+  width: 400px;
+  height: 400px;
+}
+
+.fcl-source-pro {
+  font-family: 'Source Sans Pro', serif;
+}
+
+.fcl-name {
+  font-weight: : 600;
+}
+
+
+
+/*Projects*/
+.fcl-projects {
+  background-color: #d6d3d1;
+  color: #57534e;
+}
+
+/*Tools*/
+.fcl-tools {
+  background-color: #737373;
+}
+
+.fcl-section-title {
+  font-family: 'Source Sans Pro', serif;
+  font-weight: 600;
+  font-size: 2.0em;
+}
+
+/*Contact*/
+.fcl-contact {
+  background-color: #d6d3d1;
+  color: #57534e;
+}
+
+.fcl-contact-icon {
+  font-size: 2em;
+}
