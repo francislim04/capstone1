@@ -5,6 +5,9 @@
     box-sizing: border-box;
 }
 
+html {
+  scroll-behavior: smooth;
+}
 
 body {
   font-family: Merriweather, serif;
@@ -43,7 +46,6 @@ body {
 }
 
 
-
 /*Projects*/
 .fcl-projects {
   background-color: #d6d3d1;
@@ -69,4 +71,9 @@ body {
 
 .fcl-contact-icon {
   font-size: 2em;
+}
+
+.fcl-contact-form {
+  background-color: #737373;
+  color: #d6d3d1;
 }
